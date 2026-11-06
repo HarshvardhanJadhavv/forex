@@ -238,6 +238,13 @@ Open [http://localhost:5173](http://localhost:5173) in your browser to access th
 
 ---
 
+## Author
+
+- **Harshvardhan** ([jadhavharsh.2024@gmail.com](mailto:jadhavharsh.2024@gmail.com))
+
+---
+
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+

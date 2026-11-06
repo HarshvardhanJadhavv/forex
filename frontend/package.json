@@ -1,7 +1,9 @@
 {
-  "name": "frontend",
+  "name": "forex-frontend",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
+  "description": "High-Performance Forex Exchange Platform Frontend",
+  "author": "Harshvardhan <jadhavharsh.2024@gmail.com>",
   "type": "module",
   "scripts": {
     "dev": "vite",
