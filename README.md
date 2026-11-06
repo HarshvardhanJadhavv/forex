@@ -240,7 +240,7 @@ Open [http://localhost:5173](http://localhost:5173) in your browser to access th
 
 ## Author
 
-- **Harshvardhan** ([jadhavharsh.2024@gmail.com](mailto:jadhavharsh.2024@gmail.com))
+- **Harshvardhan** ([@HarshvardhanJadhavv](https://github.com/HarshvardhanJadhavv) • [jadhavharsh.2024@gmail.com](mailto:jadhavharsh.2024@gmail.com))
 
 ---
 
